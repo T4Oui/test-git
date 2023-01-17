@@ -2,6 +2,7 @@
 
 void main(){
     char hello;
+    int oui;
     int nb_o =0;
     int idx_etoile = 8;
     
