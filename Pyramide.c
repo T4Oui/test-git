@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(){
-
+    char hello;
     int nb_o =0;
     int idx_etoile = 8;
     
